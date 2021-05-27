@@ -1,4 +1,4 @@
-CRUD operation REST API built with spring boot.
+Basic CRUD operation REST API built with spring boot.
 
 Connected to heroku postgres db.
 
